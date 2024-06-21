@@ -5,7 +5,7 @@
 - Rを使用します。
 
 ## コード
-- データの読み込みと可視化・定量化用([20240714_JMLAnetworkAnalysis.R](https://github.com/hellboy84/network_IGTODY/blob/main/20240714_JMLAnetworkAnalysis.R))
+- データの読み込みと可視化・定量化用：[20240714_JMLAnetworkAnalysis.R](https://github.com/hellboy84/network_IGTODY/blob/main/20240714_JMLAnetworkAnalysis.R)
 
 ## 成果物
 - 第39回医学情報サービス研究大会(MIS39)＠名古屋(2024/07/13-14)にてポスター発表
