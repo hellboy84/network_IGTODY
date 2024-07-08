@@ -8,7 +8,7 @@
 - データの読み込みと可視化・定量化用：[20240714_JMLAnetworkAnalysis.R](https://github.com/hellboy84/network_IGTODY/blob/main/20240714_JMLAnetworkAnalysis.R)
 
 ## 成果物
-- 第39回医学情報サービス研究大会(MIS39)＠名古屋(2024/07/13-14)にてポスター発表
+- 第39回医学情報サービス研究大会(MIS39)＠名古屋(2024/07/13-14)にてポスター発表。
   - Title：ネットワークグラフと特徴量を用いた『医学図書館』誌上の著者-被引用者ネットワークの可視化・定量化
   - MIS39HP：[https://plaza.umin.ac.jp/mis/39/](https://plaza.umin.ac.jp/mis/39/)
   - ポスター本体：[https://doi.org/10.6084/m9.figshare.26062924](https://doi.org/10.6084/m9.figshare.26062924)
